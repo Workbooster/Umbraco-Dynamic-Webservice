@@ -1,0 +1,5 @@
+C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Interfaces\bin\Debug\Workbooster.UmbracoDynamicWebservice.Interfaces.dll
+C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Interfaces\bin\Debug\Workbooster.UmbracoDynamicWebservice.Interfaces.pdb
+C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Interfaces\obj\Debug\Workbooster.UmbracoDynamicWebservice.Interfaces.csprojResolveAssemblyReference.cache
+C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Interfaces\obj\Debug\Workbooster.UmbracoDynamicWebservice.Interfaces.dll
+C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Interfaces\obj\Debug\Workbooster.UmbracoDynamicWebservice.Interfaces.pdb

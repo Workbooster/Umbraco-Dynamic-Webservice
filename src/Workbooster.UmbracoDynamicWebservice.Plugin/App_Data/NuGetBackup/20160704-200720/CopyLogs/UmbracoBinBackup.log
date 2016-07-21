@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robustes Dateikopieren fÅr Windows                              
+-------------------------------------------------------------------------------
+
+  Gestartet: Montag, 4. Juli 2016 20:07:20
+   Quelle : C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Plugin\bin\
+     Ziel : C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Plugin\App_Data\NuGetBackup\20160704-200720\bin\
+
+    Dateien : *.*
+	    
+  Optionen: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Plugin\bin\
+	 Neues Verz.       0	C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Plugin\bin\Debug\
+	 Neues Verz.       0	C:\.NET Projects\Umbraco Projekte\Umbraco Dynamic Webservice\src\Workbooster.UmbracoDynamicWebservice.Plugin\bin\Release\
+
+------------------------------------------------------------------------------
+
+           Insgesamt   KopiertöbersprungenKeine öbereinstimmung    FEHLER    Extras
+Verzeich.:         3         2         1         0         0         0
+  Dateien:         0         0         0         0         0         0
+    Bytes:         0         0         0         0         0         0
+   Zeiten:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Beendet: Montag, 4. Juli 2016 20:07:20
+
