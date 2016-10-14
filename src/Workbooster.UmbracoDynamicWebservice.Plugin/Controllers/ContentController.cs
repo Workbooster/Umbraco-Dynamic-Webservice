@@ -95,7 +95,7 @@ namespace Workbooster.UmbracoDynamicWebservice.Plugin.Controllers
                     node.SetValue(property.Alias, content.PropertyValues[i]);
                 }
 
-                ApplicationContext.Services.ContentService.Save(node);
+                ApplicationContext.Services.ContentService.SaveAndPublishWithStatus(node);
 
             }
         }

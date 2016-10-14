@@ -265,13 +265,13 @@
     <Compile Include="AppStartupHandler .cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Workbooster.UmbracoDynamicWebservice.Interfaces\Workbooster.UmbracoDynamicWebservice.Interfaces.csproj">
       <Project>{0abe2a48-6e41-4dee-8135-61c072a7f3b4}</Project>
       <Name>Workbooster.UmbracoDynamicWebservice.Interfaces</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

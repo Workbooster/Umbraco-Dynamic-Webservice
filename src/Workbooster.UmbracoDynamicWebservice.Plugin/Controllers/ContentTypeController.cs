@@ -115,7 +115,9 @@ namespace Workbooster.UmbracoDynamicWebservice.Plugin.Controllers
                         IsNullable = propertyType.Mandatory == false
                             && String.IsNullOrEmpty(propertyType.ValidationRegExp),
 
-                        Description = propertyType.Description,
+                        ValidationRegExp = propertyType.ValidationRegExp,
+
+                        Description = propertyType.Description
                     });
                 }
             }
